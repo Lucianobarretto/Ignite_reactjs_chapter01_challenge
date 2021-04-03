@@ -16,7 +16,6 @@
 <p align="center">
   <kbd><img align="center" src="tela_do_todo.jpg" width="800"/></kbd>
 </p>
----
 
 <h3 align="center">#Turma_01 - Front-end Developer N/A0110629</h3>
 
