@@ -12,10 +12,14 @@
 * 2º: Remover uma tarefa ✔
 * 3º: Marcar e desmarcar uma tarefa como concluída ✔
 
+<br>
+
 <h2 align="center">to.do</h2>
 <p align="center">
   <kbd><img align="center" src="tela_do_todo.jpg" width="800"/></kbd>
 </p>
+
+<br>
 
 <h3 align="center">#Turma_01 - Front-end Developer N/A0110629</h3>
 
