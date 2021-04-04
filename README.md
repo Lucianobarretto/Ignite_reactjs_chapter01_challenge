@@ -16,7 +16,7 @@
 
 <h2 align="center">to.do</h2>
 <p align="center">
-  <kbd><img align="center" src="tela_do_todo.jpg" width="800"/></kbd>
+  <kbd><img align="center" src="tela_do_todo.jpg" alt="Tela do App to.do" width="800"/></kbd>
 </p>
 
 <br>
