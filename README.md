@@ -24,7 +24,7 @@
 <h3 align="center">#Turma_01 - Front-end Developer N/A0110629</h3>
 
 <p align="center">
-  <kbd><img align="center" src="Passaporte-react-js.png" width="300"/></kbd>
+  <kbd><img align="center" src="Passaporte-react-js.png" alt="Logo do Passport Rocketseat" width="300"/></kbd>
 </p>
 
 <p align="center">
